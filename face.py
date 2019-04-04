@@ -20,7 +20,7 @@ known_face_encodings = [
   person3_face_encoding
 
 ]
-
+#แสดงชื่อที่ตรงกับภาพที่ทำการตรวจจับได้
 known_face_names = [
     "jiradet",
   "kanyarat","ping"
